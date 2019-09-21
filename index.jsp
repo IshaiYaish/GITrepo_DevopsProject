@@ -32,7 +32,7 @@
 <body>
 
 
-<h3></h3>
+
 <form method="get">
     <h1>Elections 2019</h1>
     <h2>Who is your choice?</h2>
