@@ -32,11 +32,11 @@
 <body>
 
 
-
+<h3></h3>
 <form method="get">
     <h1>Elections 2019</h1>
     <h2>Who is your choice?</h2>
-
+	
     <input type="radio" name="vote" value="Halicod">Halicod
     <input type="radio" name="vote" value="Shas">Shas
     <input type="radio" name="vote" value="Havoda">Havoda
