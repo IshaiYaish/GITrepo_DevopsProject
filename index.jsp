@@ -12,7 +12,7 @@
             font-weight: bold;
             color: white;
         }
-        #votebox{
+        #votebox{ 
             color:white;
             padding: 220px;
             text-indent: 30%;
