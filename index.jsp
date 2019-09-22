@@ -3,15 +3,7 @@
 <head>
     <title>Elections</title>
     <style type="text/css">
-<<<<<<< HEAD
-        h1{ 
-=======
-<<<<<<< HEAD
-        h1{ 
-=======
-        h1{
->>>>>>> final index.jsp
->>>>>>> index jsp
+		h1 {
             font-weight: bold;
             color: #A9A9A9;
             font-size: 4em;
@@ -39,12 +31,6 @@
 </head>
 <body>
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> index jsp
-
-
 <form method="get">
     <h1>Elections 2019</h1>
     <h2>Who is your choice?</h2>
@@ -66,10 +52,6 @@ if (votes != null) {
 
 </form>
 
-
-<<<<<<< HEAD
-=======
-=======
 <div class="container">
 	<div class="row">
 		<div class="col-lg-12">
@@ -96,7 +78,5 @@ if (votes != null) {
 		</div>
 	</div>
 </div>
->>>>>>> final index.jsp
->>>>>>> index jsp
 </body>
 </html>
