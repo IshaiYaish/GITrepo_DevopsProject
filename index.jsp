@@ -36,7 +36,6 @@
 			<form method="get">
 				<h1>Elections 2019</h1>
 				<h2>Who is your choice?</h2>
-				<h6>*Choose wisely*</h6>
 				<input type="radio" name="vote" value="Halicod">Halicod
 				<input type="radio" name="vote" value="Shas">Shas
 				<input type="radio" name="vote" value="Havoda">Havoda
