@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Elections</title>
+    <title>Elections 2019</title>
     <style type="text/css">
         h1{
             font-weight: bold;
